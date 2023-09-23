@@ -13,6 +13,7 @@ function Calculator() {
   function handleClick(buttonName) {
     setCalculation(calculate(calculation, buttonName));
   }
+
   return (
     <div className="calculator-wrapper">
       <div className="row1 Display">{calculation.total || calculation.next || '0'}</div>
