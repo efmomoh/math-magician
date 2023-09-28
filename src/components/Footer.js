@@ -49,6 +49,13 @@ function Footer() {
               Twiter
             </a>
             <a
+              href="https://app.slack.com/client/T47CT8XPG/D04KXU6HWUS"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Slack
+            </a>
+            <a
               href="https://github.com/efmomoh"
               target="_blank"
               rel="noopener noreferrer"
