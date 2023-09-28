@@ -1,0 +1,59 @@
+import './Footer.css';
+
+function Footer() {
+  return (
+    <>
+      <section className="footer">
+        <div className="company">
+          <p>
+            Created by: efmomoh&nbsp;
+            <a href="/MIT.md">MIT LICENSED</a>
+            &nbsp; &copy; 2023 EFM Reserved Rights.
+          </p>
+        </div>
+        <div className="media-container">
+          <span className="connect">Let&apos;s Connect</span>
+          <div className="media">
+            <a
+              href="https://web.facebook.com/efmomoh"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              FaceBook
+            </a>
+            <a
+              href="https://www.linkedin.com/in/efmomoh/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              LinkedIn
+            </a>
+            <a
+              href="https://www.instagram.com/efmomoh/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Instagram
+            </a>
+            <a
+              href="https://twitter.com/efmomoh"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Twiter
+            </a>
+            <a
+              href="https://github.com/efmomoh"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              GitHub
+            </a>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}
+
+export default Footer;
