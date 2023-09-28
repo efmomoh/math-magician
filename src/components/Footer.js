@@ -7,7 +7,13 @@ function Footer() {
         <div className="company">
           <p>
             Created by: efmomoh&nbsp;
-            <a href="/MIT.md">MIT LICENSED</a>
+            <a
+              href="https://github.com/efmomoh/math-magician/blob/create-full-website-with-router/MIT.md"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              MIT LICENSED
+            </a>
             &nbsp; &copy; 2023 EFM Reserved Rights.
           </p>
         </div>
