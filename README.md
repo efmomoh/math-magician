@@ -62,9 +62,11 @@ Basic website that allows users to perform mathematical operations on the websit
 - npm i -g
 - sudo apt install -g npm
 
-### Install
+### Install & Dependencies
 
-2- Install npm (node pakage manager)
+- Install npm (node pakage manager)
+- npm i -S big.js
+- [npm i big.js](https://www.npmjs.com/package/big.js)
 
 ### Usage
 

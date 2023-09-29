@@ -1,3 +1,11 @@
+h1 {
+  text-align: center;
+  color: #282c34;
+  font-size: 2rem;
+  font-weight: 800;
+  font-style: italic;
+}
+
 .App {
   text-align: center;
 }
