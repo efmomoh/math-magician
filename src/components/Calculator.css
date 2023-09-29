@@ -1,5 +1,4 @@
 .calculator-wrapper {
-  margin: 2vh 1vw auto;
   display: flex;
   flex-direction: column;
   width: auto;
@@ -44,4 +43,15 @@
 .Button-row {
   display: flex;
   flex-direction: row;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 15rem 0 0.5rem;
+  padding: 1rem;
+}
+
+.math-detail {
+  font-size: 2rem;
 }

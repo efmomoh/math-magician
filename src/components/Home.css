@@ -1,0 +1,17 @@
+.heading {
+  padding-left: 30px;
+  font-size: 2em;
+}
+
+.details {
+  background-color: whitesmoke;
+  margin-left: 15vw;
+  margin-right: 15vw;
+  width: auto;
+  height: auto;
+  border: 2px solid rgb(184, 184, 184);
+  font-size: 1.5em;
+  padding: 20px;
+  border-radius: calc(0.1 * 100px);
+  box-shadow: 0 4px 14px 0 rgba(70, 70, 70, 0.38);
+}

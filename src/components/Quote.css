@@ -2,11 +2,11 @@
   background-color: #ededf2;
   border-radius: 16px;
   border: 1px solid #fe9241;
-  width: 20vw;
+  width: auto;
   height: auto;
-  margin-left: 2.5rem;
-  padding: 2rem;
+  padding: 4rem;
   font-size: 1.5rem;
+  margin: 2rem 10rem 0;
 }
 
 .quote {
