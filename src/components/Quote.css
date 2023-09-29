@@ -1,5 +1,5 @@
 .quote-container {
-  background-color: #ededf2;
+  background-color: #000;
   border-radius: 16px;
   border: 1px solid #fe9241;
   width: auto;
@@ -7,6 +7,7 @@
   padding: 4rem;
   font-size: 1.5rem;
   margin: 2rem 10rem 0;
+  box-shadow: 8px 5px 4px 2px gold;
 }
 
 .quote {
@@ -20,7 +21,8 @@
 }
 
 .author {
-  font-style: normal;
+  font-style: oblique;
   font-weight: bold;
   float: right;
+  color: #fff;
 }
