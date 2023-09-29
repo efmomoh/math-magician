@@ -1,12 +1,13 @@
 .calculator-wrapper {
-  margin: 5vh 30vw auto;
+  margin: 2vh 1vw auto;
   display: flex;
   flex-direction: column;
-  width: 80vw;
+  width: auto;
 }
 
 .calculator-wrapper > * {
   display: flex;
+  flex-direction: row;
 }
 
 .Display {

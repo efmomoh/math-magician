@@ -1,0 +1,26 @@
+.quote-container {
+  background-color: #ededf2;
+  border-radius: 16px;
+  border: 1px solid #fe9241;
+  width: 20vw;
+  height: auto;
+  margin-left: 2.5rem;
+  padding: 2rem;
+  font-size: 1.5rem;
+}
+
+.quote {
+  font-style: italic;
+}
+
+.error,
+.Loading {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.author {
+  font-style: normal;
+  font-weight: bold;
+  float: right;
+}
